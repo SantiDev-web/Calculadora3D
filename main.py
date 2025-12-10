@@ -1,1 +1,4 @@
-#Esto es una prueba de commit
+nombre = 'michael'
+apellido = 'prueba'
+
+print(f'{nombre} {apellido}')
